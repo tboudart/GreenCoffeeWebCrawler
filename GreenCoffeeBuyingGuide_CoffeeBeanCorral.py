@@ -2,7 +2,6 @@ import time
 startTime = time.time() #start time to calculate length of program execution
 
 import requests
-from requests import get
 from bs4 import BeautifulSoup
 import math
 import xlsxwriter
